@@ -4,13 +4,13 @@
   </a>
 </p>
 
+![Unser Discord](https://img.shields.io/discord/762641210334511115?label=Discord&logo=Discord&logoColor=white)
 
 ## How to make your own Pages 🔧
 1. Fork this Project into your own Account
 2. Add your custom FAQ File in the folder docs
 3. To test your FAQ. Start it with **npm start** and open http://localhost:3000
 4. If you want to get a small gift, add your Email, which is registered at Robin-IT
-
 
 ## Creater
 
