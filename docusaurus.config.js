@@ -133,7 +133,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
-              "https://github.com/RobinDev03/Robin-IT-FAQ/edit/master/",
+              "https://github.com/RobinDev03/Robin-IT-FAQ/edit/main/",
           showLastUpdateAuthor: true,
           showLastUpdateTime: true
         }//,
