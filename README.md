@@ -1,24 +1,19 @@
 <p align="center">
-  <a href="https://www.puh.hosting">
-    <img alt="PuhHosting" src="https://cdn.puh.hosting/puhhosting/Logo/App.png" width="150" />
+  <a href="https://robin-it.de">
+    <img alt="Logo" src="https://files.robin-it.de/logo_quadrat.png" width="200" />
   </a>
 </p>
-<p align="center">
-  Official FAQ Website for puh.hosting made with Docusaurus 2.
-</p>
 
-[![Build Worker](https://github.com/PuhHosting/FAQ/actions/workflows/build.yml/badge.svg)](https://github.com/PuhHosting/FAQ/actions/workflows/build.yml)
-![Discord](https://img.shields.io/discord/683279660406013969?label=Discord&logo=Discord&logoColor=white)
+![Unser Discord](https://img.shields.io/discord/683279660406013969?label=Discord&logo=Discord&logoColor=white)
 
-## Contributing 🔧
-1. Fork this Project
+## How to make your own Pages 🔧
+1. Fork this Project into your own Account
 2. Add your custom FAQ File in the folder docs
-3. To test your FAQ you can build locally the FAQ with **npm start** and now open http://localhost:3000
-4. Create a Pull Request with your email or userid on Puh.Hosting
-5. Once the Pull Request gets approved you receive a small gift :)
+3. To test your FAQ. Start it with **npm start** and open http://localhost:3000
+4. If you want to get a small gift, add your Email, which is registered at Robin-IT
 
-## Contributors
+## Creater
 
-<a href="https://github.com/PuhHosting/FAQ/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=PuhHosting/FAQ" alt="Contributors"/>
+<a href="https://github.com/RobinDev03/Robin-IT-FAQ/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=RobinDev03/Robin-IT-FAQ" />
 </a>
