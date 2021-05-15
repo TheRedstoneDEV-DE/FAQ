@@ -1,20 +1,17 @@
 module.exports = {
-  title: 'PuhHosting FAQ',
-  tagline: 'Der Ort für deine Antworten',
-  url: 'https://faq.puh.hosting',
+  title: 'FAQ Robin-IT',
+  tagline: 'Hier findest du alles, was du wissen musst!',
+  url: 'https://faq.robin-it.de',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'https://cdn.puh.hosting/puhhosting/favicon/favicon-16x16.png',
-  organizationName: 'PuhHosting',
+  favicon: 'https://files.robin-it.de/logo_quadrat.png',
+  organizationName: 'Robin-IT',
   projectName: 'FAQ',
   i18n: {
     defaultLocale: 'de',
-    locales: ['de', 'en'],
+    locales: ['de'],
     localeConfigs: {
-      en: {
-        label: 'English',
-      },
       de: {
         label: 'Deutsch',
       },
@@ -50,11 +47,6 @@ module.exports = {
         pwaHead: [
           {
             tagName: 'link',
-            rel: 'icon',
-            href: '/img/puhhosting.png',
-          },
-          {
-            tagName: 'link',
             rel: 'manifest',
             href: '/manifest.json',
           },
@@ -68,19 +60,11 @@ module.exports = {
     ],
   ],
   themeConfig: {
-    googleAnalytics: {
-      trackingID: 'UA-159552747-6',
-      anonymizeIP: true,
-    },
-    gtag: {
-      trackingID: 'UA-159552747-6',
-      anonymizeIP: true,
-    },
     navbar: {
-      title: 'PuhHosting FAQ',
+      title: 'FAQ Robin-IT',
       logo: {
-        alt: 'PuhHosting Logo',
-        src: 'https://cdn.puh.hosting/puhhosting/Logo/App.png',
+        alt: 'Robin-IT Logo',
+        src: 'https://files.robin-it.de/logo_quadrat.png',
       },
       items: [
         {
@@ -94,8 +78,13 @@ module.exports = {
           position: 'right',
         },
         {
-          href: 'https://www.puh.hosting',
+          href: 'https://www.robin-it.de',
           label: 'Website',
+          position: 'right',
+        },
+        {
+          href: 'https://dash.robin-it.de',
+          label: 'Dashboard',
           position: 'right',
         },
       ],
@@ -107,16 +96,16 @@ module.exports = {
           title: 'Socialmedia',
           items: [
             {
-              label: 'Instagram',
-              href: 'https://www.instagram.com/puh_hosting/',
-            },
-            {
               label: 'Discord',
-              href: 'https://discord.gg/w8Syn43',
+              href: 'https://dc.robin-it.de',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/PuhHosting',
+              href: 'https://twitter.com/robin_it_2020',
+            },
+            {
+              label: 'Instagram',
+              href: 'https://www.instagram.com/robin_it_2020/',
             },
           ],
         },
@@ -125,16 +114,16 @@ module.exports = {
           items: [
             {
               label: 'Impressum',
-              href: 'https://www.puh.hosting/imprint',
+              href: 'https://dash.robin-it.de/impressum',
             },
             {
               label: 'Datenschutz',
-              href: 'https://www.puh.hosting/privacy',
+              href: 'https://dash.robin-it.de/datenschutz',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} PuhHosting, made with ❤ and build with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} by Robin-IT`,
     },
   },
   presets: [
@@ -144,13 +133,13 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
-              "https://github.com/PuhHosting/FAQ/edit/master/",
+              "https://github.com/RobinDev03/Robin-IT-FAQ/edit/master/",
           showLastUpdateAuthor: true,
           showLastUpdateTime: true
-        },
-        theme: {
-          customCss: require.resolve("./src/css/custom.css")
-        }
+        }//,
+        //theme: {
+        //  customCss: require.resolve("./src/css/custom.css")
+        //}
       }
     ]
   ],

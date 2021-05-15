@@ -14,26 +14,22 @@ const features = [
     description: (
       <>
         <Translate description="The homepage main heading">
-          PuhFAQ ist ein Wikipedia, indem man Antworten zu beliebten Kundenfragen finden kann.
+          In unserem FAQ kannst du Antworten zu fast allem Finden!
         </Translate>
       </>
     ),
   },
   {
-    title: 'Viele Anleitungen',
+    title: '',
+    imageUrl: '',
+    description: (''),
+  },
+  {
+    title: 'Communityprojekt',
     imageUrl: 'img/undraw-tutorial.svg',
     description: (
       <>
-        Hier Bei PuhFAQ findest du auch Anleitungen, wie zum beispiel das verbinden einer Domain bei einer Website. Duchstöber doch mal <code>FAQ</code> um eine Passende Anleitung zu finden.
-      </>
-    ),
-  },
-  {
-    title: 'Über PuhHosting',
-    imageUrl: 'img/undraw-free.svg',
-    description: (
-      <>
-        PuhHosting ist dein Hoster, wenn es um Kostenlose Produkte geht.
+        Die fehlt etwas in unserem FAQ? Du kannst gerne jederzeit über unsere GitHub-Repository eigene Seiten hinzufügen! Bitte beachte: Es sollten sinnvolle und korrekte Inhalte sein!
       </>
     ),
   },
@@ -72,7 +68,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
-              PuhFAQ durchstöbern
+              Schau dir unser FAQ an
             </Link>
           </div>
         </div>
