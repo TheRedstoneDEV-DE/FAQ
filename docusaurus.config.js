@@ -6,7 +6,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://files.robin-it.de/logo_quadrat.png',
-  organizationName: 'Robin-IT',
+  organizationName: 'Robin-IT-2020',
   projectName: 'FAQ',
   i18n: {
     defaultLocale: 'de',
