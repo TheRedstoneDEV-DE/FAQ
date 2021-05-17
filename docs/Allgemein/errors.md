@@ -3,6 +3,10 @@ id: errors
 title: Fehlercodes
 ---
 
+> Info vorab
+
+Es gibt aktuell noch einige Fehlermeldungen im Panel, deren Code an diese Liste nicht anbgepasst ist. Wir bitten euch daher uns alle Fehelrcodes via [Ticket](https://dash.robin-it.de/ticket) oder Livechat zu melden, bei denen Ihr das Gefühlt habt, dass diese nicht zu den hier angegebenen passen. 
+
 > Allgemeine Einordnung
 
 |Code|Fehler|
