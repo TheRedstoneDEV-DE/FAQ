@@ -87,6 +87,11 @@ module.exports = {
           label: 'Dashboard',
           position: 'right',
         },
+        {
+          href: 'https://status.robin-it.de',
+          label: 'Statusseite',
+          position: 'left',
+        },
       ],
     },
     footer: {
