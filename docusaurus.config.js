@@ -90,7 +90,7 @@ module.exports = {
         {
           href: 'https://status.robin-it.de',
           label: 'Statusseite',
-          position: 'left',
+          position: 'right',
         },
       ],
     },
