@@ -73,10 +73,10 @@ module.exports = {
           label: 'FAQ',
           position: 'left',
         },
-        {
-          type: 'localeDropdown',
-          position: 'right',
-        },
+        //{
+        //  type: 'localeDropdown',
+        //  position: 'right',
+        //},
         {
           href: 'https://www.robin-it.de',
           label: 'Website',
