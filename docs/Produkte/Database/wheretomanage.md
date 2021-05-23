@@ -1,5 +1,5 @@
 ---
-id: database_wheretomanage
+id: databasemanagement
 title: Wo kann ich meine Datenbank verwalten?
 ---
 

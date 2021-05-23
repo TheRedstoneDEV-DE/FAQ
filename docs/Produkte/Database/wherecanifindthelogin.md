@@ -1,5 +1,5 @@
 ---
-id: database_wherecanifindthelogin
+id: wherecanifindthedatabaselogin
 title: Wo finde ich die Login-Daten zu meiner Datenbank?
 ---
 

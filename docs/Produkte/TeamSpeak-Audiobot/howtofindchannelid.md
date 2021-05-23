@@ -1,5 +1,5 @@
 ---
-id: ts3ab_howtofindchannelid
+id: howtofindchannelid
 title: Die Channel-ID
 ---
 
