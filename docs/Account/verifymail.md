@@ -25,4 +25,4 @@ Wir erklären dir, was du machen musst!
 #### Suche dir ein anderes Programm wo du dich mit deiner E-Mail Adresse anmelden kannst. 
 #### Gucke dort nun auch ob die E-Mail da ist! Überprüfe auf jedenfall auch den Spamordner.
 
-## Sollte das nicht alles helfen wende dich bitte per Livechat / E-Mail / Discord an den Support!
+## Sollte das nicht alles helfen wende dich bitte per Teamspeak oder Discord.
