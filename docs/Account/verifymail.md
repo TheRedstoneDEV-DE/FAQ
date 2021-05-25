@@ -1,7 +1,7 @@
 ---
 id: E-Mail Verifizierung
 title: Verifizierung per E-Mail
-
+---
 
 ## Du hast dich Registriert aber die E-Mail kommt nicht an?
 Wir erklären dir, was du machen musst!
