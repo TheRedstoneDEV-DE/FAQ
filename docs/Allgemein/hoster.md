@@ -1,3 +1,8 @@
+---
+id: hoster
+title: Unsere Hoster
+---
+
 ### In diesem Beitrag werden Sie Information zum hosting unserer Produkte bekommen:
 
 ##### Welche Hoster haben wir nun?
