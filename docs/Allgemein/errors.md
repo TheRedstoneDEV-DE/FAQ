@@ -22,6 +22,7 @@ Es gibt aktuell noch einige Fehlermeldungen im Panel, deren Code an diese Liste 
 |9xxx|Teamspeak-Audiobot Error|
 |10xxx|Gameserver Error|
 |11xxx|Services Error|
+|12xxx|API-Error|
 
 
 ## Fehler im Detail
@@ -51,3 +52,23 @@ Fehler beim neu installieren des Servers
 > 5006
 
 Fehler beim starten der VNC-Console
+
+
+
+### API-Fehler: 12xxx
+
+> 12001
+
+Datenbankverbindung kann beim Starten der API nicht hergestellt werden.
+
+> 12002
+
+Automatische Weiterleitung kann nicht erfolgen. Meist ist dies ein Client-Fehler.
+
+>12003
+
+Datenbankfehler bei einer GET-Abfrage
+
+>12004
+
+Datenbankfehler bei einer POST-Abfrage
