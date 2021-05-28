@@ -3,8 +3,8 @@ id: Ticket Support
 title: Ticket Support
 ---
 
-# Manche Sachen kann man nicht per Livechat oder über eine andere Support Möglichkeit nutzen. 
-# Wir erklären dir nun hier, wie du ein Ticket erstellst.
+Manche Sachen kann man nicht per Livechat oder über eine andere Support Möglichkeit nutzen. 
+Wir erklären dir nun hier, wie du ein Ticket erstellst.
 
 
 
