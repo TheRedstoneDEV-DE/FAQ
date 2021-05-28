@@ -1,6 +1,6 @@
 ---
 id: Gutscheincode Nutzung
-name: Die Nutzung eines Gutscheins
+title: Die Nutzung eines Gutscheins
 ---
 
 ## Du erhältst bei einer Verlosung oder auch einfach mal so einen Gutschein?
