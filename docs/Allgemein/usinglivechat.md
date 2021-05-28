@@ -1,6 +1,6 @@
 ---
 id: Livechat nutzung
-name: Livechat nutzen
+title: Livechat nutzen
 ---
 
 # Wir bieten verschiedene Arten von Support an.
