@@ -4,7 +4,7 @@ name: Die Nutzung eines Gutscheins
 ---
 
 ## Du erhältst bei einer Verlosung oder auch einfach mal so einen Gutschein?
-### Wir erklären dir hier, wie du diese einlösen kannst.
+Wir erklären dir hier, wie du diese einlösen kannst.
 
 
 > Vorraussetzungen:
@@ -16,15 +16,15 @@ Wenn du diesen hast, melde dich oben auf unserer Website an.
 
 
 > Und was passiert dann?
-### Nun wirst du auf unser Dashboard weitergeleitet.
-#### Das sollte bei dir nun so aussehen:
+Nun wirst du auf unser Dashboard weitergeleitet.
+Das sollte bei dir nun so aussehen:
 ![](https://screen.r-it.link/FonU7/RaSaLugO97.png/raw)
 
-## Klicke an der Seite unten nun auf Profil!
+Klicke an der Seite unten nun auf Profil!
 Das sieht bei dir dann so aus:
 ![](https://screen.r-it.link/FonU7/VuhEhuhI04.png/raw)
-### Nun musst du nach unten Scrollen!
+Nun musst du nach unten Scrollen!
 ![](https://screen.r-it.link/FonU7/BohuROpO19.png/raw)
 Dort fügst du den Code dann ein und drückst auf den Button!
 
-### Dann erhältst du dein Guthaben. Sollte etwas nicht funktionieren, melde dich bei unserem Supportteam.
+Dann erhältst du dein Guthaben. Sollte etwas nicht funktionieren, melde dich bei unserem Supportteam.
