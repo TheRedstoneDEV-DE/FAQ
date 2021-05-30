@@ -3,8 +3,9 @@ id: Account erstellen
 title: Account erstellung 
 ---
 
+In diesem Beitrag erklären wir, wie man einen Account erstellt.
 
-# In diesem Beitrag erklären wir, wie man einen Account erstellt. 
+
 Geh auf unsere [Website](https://robin-it.de).
 Bewege nun die Maus oben auf Dashboard Login / Registieren. 
 ![](https://screen.r-it.link/FonU7/lAlawOZI62.png/raw)
