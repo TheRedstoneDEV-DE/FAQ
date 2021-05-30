@@ -1,6 +1,7 @@
 ---
 id: Informationen
 title: Informationen
+slug: /
 ---
 
 # Hier findest du ein paar Informationen.
