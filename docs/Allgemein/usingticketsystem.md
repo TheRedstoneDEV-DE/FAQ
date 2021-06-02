@@ -8,7 +8,7 @@ Wir erklären dir nun hier, wie du ein Ticket erstellst.
 
 
 
-> Wie geht es nun?:
+> Wie geht es nun?
 
 Um überhaupt mit der Ticket erstellung zu starten, benötigst du auf unserer Website ein Konto.
 Wie macht man ein Konto? Schau [hier](https://faq.robin-it.de/docs/Account/Account%20erstellen) nach.
