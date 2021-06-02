@@ -10,7 +10,8 @@ Wir erklären dir hier, wie du diese einlösen kannst.
 > Vorraussetzungen:
 
 Um einen Gutschein einzulösen, benötigst du einen Account auf unserer Website.
-Wenn du diesen hast, melde dich oben auf unserer Website an.
+Wenn du diesen noch nicht hast, schaue dir [diesen](https://faq.robin-it.de/docs/Account/Account%20erstellen) Beitrag an.
+Solltest du einen haben, kannst du dich nun anmelden!
 ![](https://screen.r-it.link/FonU7/VANahOpE29.png/raw)
 
 
