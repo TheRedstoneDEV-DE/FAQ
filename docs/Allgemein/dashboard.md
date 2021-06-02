@@ -8,6 +8,7 @@ Wir helfen dir in diesem Beitrag im Dashboard zurecht zu finden.
 
 
 1: Dashboard übersicht
+
 Hier siehst du alle Informationen die für dich erstmal wichtig sind.
 ![](https://screen.r-it.link/FonU7/VedEhEQu28.png/raw)
 Dort hat man folgende Möglichkeiten:
