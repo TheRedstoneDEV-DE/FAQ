@@ -72,3 +72,7 @@ Datenbankfehler bei einer GET-Abfrage
 >12004
 
 Datenbankfehler bei einer POST-Abfrage
+
+>12005
+
+Datenbankfehler bei einer PUT-Abfrage
