@@ -1,5 +1,5 @@
 ---
-id: modrescources
-title: Wieviel Rescourcen brauchen Mods?
+id: opencomputers
+title: 2-3 cores
 ---
 ## Wieviel Rescourcen brauchen Mods?
